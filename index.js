@@ -7,7 +7,7 @@ export default function (filename = '') {
     const length = Object.keys(mimeTypes).length
     for (const [_key, _value] of Object.entries(mimeTypes)) {
       const keys = _key.split('|')
-      if (keys.includes(suffix)) {
+      if (keys.includes(suffix.toLocaleLowerCase())) {
         type = _value
         break
       }
