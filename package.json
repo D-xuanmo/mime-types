@@ -1,6 +1,6 @@
 {
   "name": "@xuanmo/mime-types",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "main": "dist/mime-types.min.js",
   "author": "xuanmo <me@xuanmo.xin>",

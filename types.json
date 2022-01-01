@@ -8,6 +8,7 @@
   "wml"            : "text/vnd.wap.wml",
   "htc"            : "text/x-component",
 
+  "awebp"          : "image/awebp",
   "png"            : "image/png",
   "svg|svgz"       : "image/svg+xml",
   "tif|tiff"       : "image/tiff",
